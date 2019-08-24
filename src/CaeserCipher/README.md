@@ -1,0 +1,1 @@
+Given a stream of letters, each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. Caeser cipher is a type of substitution cipher, where the shift parameter is the key.
